@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="D038FE8E-57D6-43CC-8AB4-DD751FE930DC" ModuleId="MVCTreeViewControl" />
+  <Module PersistentId="CB2ED303-4434-48D5-A11B-4978546E5066" ModuleId="MVCTreeViewControl.Test" />
+</Modules>

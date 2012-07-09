@@ -1,0 +1,29 @@
+﻿#nav ul
+{
+    position: relative;
+    right: 20px;
+    font-weight: bold;
+}
+#nav ul li
+{
+    list-style-type: none;
+}
+.treeview-node-element
+{
+    width: 500px;
+}
+.treeview-node-element li
+{
+    list-style-type: none;
+    display: inline-table;
+}
+.treeview-node-expand img
+{
+    width: 16px;
+    display: block;
+}
+.treeview-node-tools img
+{
+    width: 16px;
+    display: none;
+}

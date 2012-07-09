@@ -1,0 +1,45 @@
+﻿@using MVCTreeViewControl.Helper
+@model MVCTreeViewControl.Models.TreeViewModel
+@section Header
+{
+    <link href="@Url.Content("../../../../Content/Confirm.css")" rel="stylesheet" type="text/css"  media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../Content/treeview.css" />
+    <script type="text/javascript" src="@Url.Content("../../../../Scripts/jquery.validate.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("../../../../Scripts/jquery.simplemodal.1.4.1.min.js")" ></script>
+    <script type="text/javascript" src="@Url.Content("../../../../Scripts/jquery.validate.unobtrusive.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("../../../../Scripts/jquery.simplemodal.1.4.1.min.js")" ></script>
+    <script type="text/javascript" src="@Url.Content("../../../../Scripts/arkad.js")" ></script>
+    <script type="text/javascript" src="@Url.Content("../../../../Scripts/arkad.treeview.js")" ></script>
+    <script type="text/javascript">
+        arkad.ui.treeview.expandUrl = "@Model.ExpandUrl.UrlNavigation";
+        arkad.ui.treeview.successEditAlert = "@Model.SuccessAlert";
+        arkad.ui.treeview.successAddAlert = "@Model.SuccessAlert";
+        arkad.ui.treeview.successRemoveAlert = "@Model.SuccessRemoveMessage";
+        arkad.ui.treeview.mainPageUrl = "@Model.MainUrl.UrlNavigation";
+        arkad.ui.treeview.addItemPopupUrl = "@Model.AddUrl.UrlNavigation";
+        arkad.ui.treeview.editItemPopupUrl = "@Model.EditUrl.UrlNavigation";
+        arkad.ui.treeview.removeItemPopupUrl = "@Model.RemoveUrl.UrlNavigation";
+        arkad.ui.treeview.successRemoveAlert = "@Model.SuccessRemoveMessage";
+    </script>
+}
+@Html.TreeView(m => m.AddRange(Model.Nodes.ToList()))
+<script type="text/javascript">
+    function add(parentId) {
+        arkad.ui.treeview.add(parentId);
+    };
+    function edit(id) {
+        arkad.ui.treeview.edit(id);
+    };
+    function remove(id) {
+        arkad.ui.treeview.remove(id);
+    };
+    function expand(id) {
+        arkad.ui.treeview.expand(id);
+    };
+    function onMouseOutFromToolbar(id) {
+        arkad.ui.treeview.onMouseOutFromToolbar(id);
+    };
+    function onClickNode(id) {
+        arkad.ui.treeview.onClickNode(id);
+    };
+</script>

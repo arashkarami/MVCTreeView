@@ -1,0 +1,144 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Content/f:treeview.css" caret="0" fromTop="0" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/f:_ViewStart.cshtml" caret="153" fromTop="5" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:Shared/f:_AjaxLayout.cshtml" caret="0" fromTop="0" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:Shared/f:_Layout.cshtml" caret="128" fromTop="5" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Create.cshtml" caret="1669" fromTop="13" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Controllers/f:TreeViewController.cs" caret="1272" fromTop="19" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Scripts/f:arkad.treeview.js" caret="715" fromTop="12" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Helper/f:TreeViewHelper.cs" caret="3501" fromTop="4" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="1241" fromTop="19" />
+      <File id="CB2ED303-4434-48D5-A11B-4978546E5066/f:UnitTest1.cs" caret="501" fromTop="16" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:TreeViewModel.cs" caret="880" fromTop="30" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:Node.cs" caret="736" fromTop="31" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:UrlInfo.cs" caret="480" fromTop="18" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/f:Global.asax.cs" caret="195" fromTop="8" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Index.cshtml" caret="1343" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Helper/f:TreeViewHelper.cs" caret="4527" fromTop="29" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Helper/f:TreeViewHelper.cs" caret="4527" fromTop="23" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Helper/f:TreeViewHelper.cs" caret="4527" fromTop="29" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="1230" fromTop="17" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="1230" fromTop="23" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="1230" fromTop="12" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="1230" fromTop="27" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="1299" fromTop="27" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="226" fromTop="2" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="53" fromTop="1" />
+      <File id="CB2ED303-4434-48D5-A11B-4978546E5066/f:UnitTest1.cs" caret="653" fromTop="9" />
+      <File id="CB2ED303-4434-48D5-A11B-4978546E5066/f:UnitTest1.cs" caret="338" fromTop="13" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Content/f:treeview.css" caret="408" fromTop="19" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Content/f:treeview.css" caret="0" fromTop="0" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:Shared/f:_Layout.cshtml" caret="542" fromTop="9" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Index.cshtml" caret="1470" fromTop="17" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Controllers/f:TreeViewController.cs" caret="648" fromTop="14" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Controllers/f:TreeViewController.cs" caret="826" fromTop="28" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Controllers/f:TreeViewController.cs" caret="568" fromTop="14" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Index.cshtml" caret="1017" fromTop="11" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Index.cshtml" caret="299" fromTop="5" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Index.cshtml" caret="1769" fromTop="23" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Index.cshtml" caret="2299" fromTop="30" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Controllers/f:TreeViewController.cs" caret="661" fromTop="22" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Models/f:SampleData.cs" caret="1240" fromTop="19" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Scripts/f:arkad.treeview.js" caret="715" fromTop="12" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Controllers/f:TreeViewController.cs" caret="1103" fromTop="15" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/d:TreeView/f:Create.cshtml" caret="304" fromTop="6" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/d:Views/f:_ViewStart.cshtml" caret="153" fromTop="5" />
+      <File id="D038FE8E-57D6-43CC-8AB4-DD751FE930DC/f:Global.asax.cs" caret="1109" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="127" />
+      <Item value="private" priority="63" />
+      <Item value="static" priority="63" />
+      <Item value="Node`0" priority="62" />
+      <Item value="IEnumerable" priority="31" />
+      <Item value="List" priority="63" />
+      <Item value="return" priority="63" />
+      <Item value="null" priority="31" />
+      <Item value="var" priority="255" />
+      <Item value="startIndex" priority="64" />
+      <Item value="Nodes" priority="31" />
+      <Item value="int" priority="31" />
+      <Item value="size" priority="31" />
+      <Item value="p" priority="31" />
+      <Item value="string" priority="65" />
+      <Item value="i" priority="127" />
+      <Item value="GenerateNodes`0" priority="63" />
+      <Item value="foreach" priority="31" />
+      <Item value="parent" priority="31" />
+      <Item value="parents" priority="95" />
+      <Item value="GetNodes`0" priority="31" />
+      <Item value="m" priority="191" />
+      <Item value="SampleData`0" priority="63" />
+      <Item value="subNodes" priority="31" />
+      <Item value="paresnt" priority="63" />
+      <Item value="Assert`0" priority="31" />
+      <Item value="ActionResult`0" priority="31" />
+      <Item value="HttpParseException`0" priority="31" />
+      <Item value="HttpPost" priority="31" />
+      <Item value="Create" priority="32" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Last`1" priority="26" />
+      <Item value="Max`1" priority="54" />
+      <Item value="AddRange`0" priority="53" />
+      <Item value="Select`2" priority="54" />
+      <Item value="SelectMany`2" priority="26" />
+      <Item value="GroupBy`2" priority="26" />
+      <Item value="Distinct`1" priority="26" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MVCTreeViewControl.Models.Node">
+      <Item value="Id" priority="157" />
+      <Item value="SubNodes" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="188" />
+      <Item value="Select`2" priority="49" />
+      <Item value="Count`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MVCTreeViewControl.Models.SampleData">
+      <Item value="Nodes" priority="136" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Count`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`1" priority="26" />
+      <Item value="IsTrue`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="arkad" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MVCTreeViewControl.Models.TreeViewModel">
+      <Item value="EditUrl" priority="27" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
